@@ -1,0 +1,9 @@
+{
+  "TEST_MANAGER" : {
+    "password": "password",
+    "name" : "dissan",
+    "surname": "Ahmed",
+    "dateOfBirth": "1997-10-09",
+    "role": "MANAGER"
+  }
+}
